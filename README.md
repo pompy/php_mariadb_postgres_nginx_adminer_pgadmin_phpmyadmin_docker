@@ -23,6 +23,8 @@ docker-compose build
 ```
 // create and start containers
 docker-compose up
+// start as daemon
+docker-compose up -d
 // start services with detached mode
 docker-compose -d up
 // start specific service
