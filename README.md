@@ -47,7 +47,8 @@ docker-compose rm
 docker-compose down
 //prune
 docker system prune 
-
+//information
+docker info
 //cleaning up and load again
 //handy commands
 docker-compose rm -f
