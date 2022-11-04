@@ -4,7 +4,7 @@
 
 #### Git Clone
 ```
-git clone https://github.com/pompy/
+git clone https://github.com/pompy/php_mariadb_postgres_nginx_adminer_pgadmin_phpmyadmin_docker
 ```
 #### Make sure docker, docker-compose is installed
 Installations depends on whether your os is based on windows or linux distribution
